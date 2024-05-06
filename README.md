@@ -1,7 +1,4 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://your_image_url_here" alt="Profile Image" width="150" />
-</p>
+
 
 <!-- Title -->
 <h1 align="center">Muhammad Zakariyya Khan</h1>
@@ -31,28 +28,24 @@ I am Muhammad Zakariyya Khan, a passionate full-stack web developer based in Auc
 ### Project 1: DreamBeanMemeTeam
 - Description: Jelly bean guessing game.
 - Technologies Used: React. Back-End, Front-End, API's
-- Link: [https://github.com/harakeke-2024/DreamBeanMemeTeam
+- Link: https://github.com/harakeke-2024/DreamBeanMemeTeam
 
 
-### Project 2: [Project Name]
+### Project 2: TicTacToe
 - Description: Brief description of the project.
-- Technologies Used: List of technologies/frameworks/languages used.
-- Link: [Link to project repository or live demo]
-  <img src="https://project_image_url_here" alt="Project Image" width="300" />
+- Technologies Used: Javascript, HTML, CSS.
+- Link: https://github.com/zakkhann/tic-tac-toe
+ 
 
-### Project 3: [Project Name]
+### Project 3: FullStack To-Do App
 - Description: Brief description of the project.
-- Technologies Used: List of technologies/frameworks/languages used.
-- Link: [Link to project repository or live demo]
-  <img src="https://project_image_url_here" alt="Project Image" width="300" />
+- Technologies Used: Back-end, SQLite, Front-end, JS, HTML, CSS, React, TS
+- Link: https://github.com/harakeke-2024/todo-full-stack/tree/zak
 
 <!-- Contact Me -->
 ## Contact Me
 - Email: zakariyyakhan87@gmail.com
-- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/zak-khan-40948b305)
-- GitHub: [GitHub Profile](https://github.com/zakkhann)
+- LinkedIn: www.linkedin.com/in/zak-khan-40948b305
+- GitHub: https://github.com/zakkhann
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://your_footer_image_url_here" alt="Footer Image" width="400" />
-</p>
+
