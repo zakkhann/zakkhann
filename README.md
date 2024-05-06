@@ -28,11 +28,11 @@ I am Muhammad Zakariyya Khan, a passionate full-stack web developer based in Auc
 
 <!-- Projects -->
 ## Projects
-### Project 1: [Project Name]
-- Description: Brief description of the project.
-- Technologies Used: List of technologies/frameworks/languages used.
-- Link: [Link to project repository or live demo]
-  <img src="https://project_image_url_here" alt="Project Image" width="300" />
+### Project 1: DreamBeanMemeTeam
+- Description: Jelly bean guessing game.
+- Technologies Used: React. Back-End, Front-End, API's
+- Link: [https://github.com/harakeke-2024/DreamBeanMemeTeam
+
 
 ### Project 2: [Project Name]
 - Description: Brief description of the project.
