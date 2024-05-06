@@ -11,12 +11,12 @@
   <img src="https://img.shields.io/badge/JavaScript-Expert-yellow" alt="JavaScript Badge" />
   <img src="https://img.shields.io/badge/React-Expert-blue" alt="React Badge" />
   <img src="https://img.shields.io/badge/Node.js-Expert-green" alt="Node.js Badge" />
-  <img src="https://img.shields.io/badge/Typescript-Intermediate-blueviolet" alt="Typescript Badge" />
+  <img src="https://img.shields.io/badge/Typescript-Expert-blueviolet" alt="Typescript Badge" />
   <img src="https://img.shields.io/badge/Git-Intermediate-red" alt="Git Badge" />
   <img src="https://img.shields.io/badge/HTML-Expert-orange" alt="HTML Badge" />
   <img src="https://img.shields.io/badge/CSS-Expert-blue" alt="CSS Badge" />
   <img src="https://img.shields.io/badge/SQL-Intermediate-green" alt="SQL Badge" />
-  <img src="https://img.shields.io/badge/SQLite-Intermediate-lightgrey" alt="SQLite Badge" />
+  <img src="https://img.shields.io/badge/SQLite-Expert-lightgrey" alt="SQLite Badge" />
 </p>
 
 <!-- About Me -->
